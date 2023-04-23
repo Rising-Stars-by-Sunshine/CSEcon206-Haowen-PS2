@@ -51,5 +51,22 @@
   year={2022},
   publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
 }
+@book{osborne_rubinstein_1994, 
+   address={Cambridge, Mass.}, 
+   title={A course in game theory}, 
+   ISBN={9780262150415}, 
+   publisher={Mit Press}, 
+   author={Osborne, Martin J and Rubinstein, Ariel}, 
+   year={1994} } 
+@article{shoham_leyton-brown_2009, 
+   title={Multiagent systems: algorithmic, game-theoretic, and logical foundations}, 
+   volume={46}, 
+   DOI={https://doi.org/10.5860/choice.46-5662}, 
+   number={10}, 
+   journal={Choice Reviews Online}, 
+   author={Shoham, Yoav and Leyton-Brown, Kevin }, 
+   year={2009}, 
+   month={Jun}, 
+   pages={46–566246–5662} }
 ```
 
