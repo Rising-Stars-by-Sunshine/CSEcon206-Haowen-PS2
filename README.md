@@ -3,7 +3,7 @@
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to Problem Set 2 for [CSEcon 206 Computational Microeconomics, 2023 Spring Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgements**: I would like to thank Prof. Luyao Zhang for her instructions in CSEcon 206 and thank all my classmates for the inspiring discussions and feedback. Thank Yiwei, Yuchen, and Rong for precious advice.
-- **Project Information**:  
+- **Project Information**: 
   This project mainly has two parts:
   - Game theory reflection and exploration in Overleaf. This part goes through the milestones of game theory and explores Bayesian Nash Equilibrium and game theory glossary.
   - Normal and extensive form games in Colab. This part introduces, realizes and analyzes two forms of games with coding and stored in the .ipynb file.
@@ -26,7 +26,14 @@
   - This section discusses two different game theory problems: the Modified Prisoner's Dilemma and the Matching Pennies without Observation game, explaining their game descriptions, strategic form matrices, game trees, and solutions including Nash equilibrium and expected payoff.
 
 ### Spotlight
-- 
+- [Game theory reflection and exploration in Overleaf](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/blob/main/code/CSECON206_ProblemSet2_Spring2023-Haowen.zip)
+  - The main findings in this section consists two parts. The first part provides an overview of the milestones in the history of game theory. The second part focuses on Bayesian Nash Equilibrium, which is a mixed-strategy equilibrium strategy profile. The section defines Bayesian Nash Equilibrium and provides an explanation of the concept. It also presents two definitions related to Bayesian Nash Equilibrium and discusses their similarities. However, no theorem or proof related to Bayesian Nash Equilibrium is presented. Besides, five new terminologies are introduced in this part. 
+- [Normal and extensive form games in Colab](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/blob/main/code/Normal_Form_Game%26Extensive_Form_Game.ipynb)
+  - In the Modified Prisoner's Dilemma, the Normal Form Game is represented by a 2x2 matrix where each player chooses between two actions: keep silent or betray. The payoffs for each player are determined by both players' actions, and the Nash equilibrium is achieved when both players choose to betray each other. In this Nash equilibrium, neither player can unilaterally change their strategy to improve their own payoff, given the strategy of the other player.
+  - 
+  - In the Matching Pennies without Observation, the Extensive Form Game is represented by a game tree where each player selects either heads or tails for their coin without observing the outcome of the other player's move. The game has two symmetric payoff matrices, and the Nash equilibrium is achieved when both players play randomly, with each player choosing strategy 1 and strategy 2 with equal probability. The expected payoff for each player in this Nash equilibrium is 0, indicating that neither player has an advantage over the other.
+
+
 
 ### More about the Author
 <div align=center>
