@@ -30,7 +30,10 @@
   - The main findings in this section consists two parts. The first part provides an overview of the milestones in the history of game theory. The second part focuses on Bayesian Nash Equilibrium, which is a mixed-strategy equilibrium strategy profile. The section defines Bayesian Nash Equilibrium and provides an explanation of the concept. It also presents two definitions related to Bayesian Nash Equilibrium and discusses their similarities. However, no theorem or proof related to Bayesian Nash Equilibrium is presented. Besides, five new terminologies are introduced in this part. 
 - [Normal and extensive form games in Colab](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/blob/main/code/Normal_Form_Game%26Extensive_Form_Game.ipynb)
   - In the Modified Prisoner's Dilemma, the Normal Form Game is represented by a 2x2 matrix where each player chooses between two actions: keep silent or betray. The payoffs for each player are determined by both players' actions, and the Nash equilibrium is achieved when both players choose to betray each other. In this Nash equilibrium, neither player can unilaterally change their strategy to improve their own payoff, given the strategy of the other player.
-  - 
+ <div align=center>
+<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/main/spotlight/normal.jpg" width="200" /><br/>
+</div>
+
   - In the Matching Pennies without Observation, the Extensive Form Game is represented by a game tree where each player selects either heads or tails for their coin without observing the outcome of the other player's move. The game has two symmetric payoff matrices, and the Nash equilibrium is achieved when both players play randomly, with each player choosing strategy 1 and strategy 2 with equal probability. The expected payoff for each player in this Nash equilibrium is 0, indicating that neither player has an advantage over the other.
 
 
