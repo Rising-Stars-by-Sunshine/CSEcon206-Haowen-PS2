@@ -34,6 +34,7 @@
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/main/spotlight/normal.jpg" width="200" /><br/>
   Fig.1: Matrix for Modified Prisoner's Dilemma game
 </div>
+
 - In the Matching Pennies without Observation, the Extensive Form Game is represented by a game tree, shown in Figure 2, where each player selects either heads or tails for their coin without observing the outcome of the other player's move. The game has two symmetric payoff matrices, and the Nash equilibrium is achieved when both players play randomly, with each player choosing strategy 1 and strategy 2 with equal probability. The expected payoff for each player in this Nash equilibrium is 0, indicating that neither player has an advantage over the other.
 <div align=center>
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/main/spotlight/Tree.jpg" width="200" /><br/>
