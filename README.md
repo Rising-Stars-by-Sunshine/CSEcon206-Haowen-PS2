@@ -35,7 +35,7 @@
 
 ### More about the Author
 <div align=center>
-<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/main/spotlight/soccer.jpg" width="230" alt="Haowen" /><br/>
+<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/main/spotlight/soccer.jpg" width="400" alt="Haowen" /><br/>
 </div>
 - Haowen Ji is a senior student at Duke Kunshan University, where he is currently pursuing a degree in data science. With a keen interest in interdisciplinary studies, he has dedicated his academic career to exploring the diverse applications of data science, including its integration with healthcare, computer vision, and economics. Apart from his academic pursuits, \textcolor{blue}{Haowen} is an avid football enthusiast who loves to play and watch football games. His passion for football has taught him valuable lessons in teamwork, strategy, and perseverance, which he applies to both his personal and professional life.
 
