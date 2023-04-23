@@ -11,10 +11,9 @@
   - [Results]
   - [Intellectual Merits and Practical impacts of your project.]
   
-   
-Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
+ 
 
-## Table of Contents
+## Table of Contents\
 
 - model
 - code
@@ -22,17 +21,9 @@ Note: please insert the screenshot of the answers to your research question by C
 - more about the author
 - references
 
-### Model
-- Game Environment
-- Solution Concept
-- Evaluations: e.g. efficiency and fairness
-
-### Code
-- Game Environment
-- Strategic plays
-- Equilibruim Evaluations: e.g. belief, strategy, and payoffs
-- oTree Experimental Code 
-
+### Structure
+- Overleaf
+- Coding 
 
 ### Spotlight
 - Posters
@@ -43,18 +34,12 @@ Note: please insert the screenshot of the answers to your research question by C
 - Media appearance
 
 ### More about the Author
-- headshot
-- self-introduction
-- Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
+![image](spotlight/soccer.jpg)
+- Haowen Ji is a senior student at Duke Kunshan University, where he is currently pursuing a degree in data science. With a keen interest in interdisciplinary studies, he has dedicated his academic career to exploring the diverse applications of data science, including its integration with healthcare, computer vision, and economics. Apart from his academic pursuits, \textcolor{blue}{Haowen} is an avid football enthusiast who loves to play and watch football games. His passion for football has taught him valuable lessons in teamwork, strategy, and perseverance, which he applies to both his personal and professional life.
 
 ### References
 
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
-
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+- Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
 
 ```
 @article{levin2022bridging,
