@@ -9,7 +9,7 @@
   - Normal and extensive form games in Colab. This part introduces, realizes and analyzes two forms of games with coding and stored in the .ipynb file.
  
 
-## Table of Contents\
+## Table of Contents
 
 - [Structure](#structure)
 - [Spotlight](#spotlight)
@@ -17,7 +17,9 @@
 - [References](#references)
 
 ### Structure
+
 - [Game theory reflection and exploration in Overleaf](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/blob/main/code/CSECON206_ProblemSet2_Spring2023-Haowen.zip)
+  - sdsd
   - 
 - [Normal and extensive form games in Colab](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/blob/main/code/Normal_Form_Game%26Extensive_Form_Game.ipynb)
 
