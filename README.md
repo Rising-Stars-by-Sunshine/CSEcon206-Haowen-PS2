@@ -18,11 +18,11 @@
 
 ### Structure
 
-- [Game theory reflection and exploration in Overleaf](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/blob/main/code/CSECON206_ProblemSet2_Spring2023-Haowen.zip)
+- [Game theory reflection and exploration](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/blob/main/code/CSECON206_ProblemSet2_Spring2023-Haowen.zip)
   - The first part briefly outlines the milestones in the history of game theory. 
   - The second part focuses on Bayesian Nash equilibrium and provides definitions and explanations of the concept. Two textbooks are referenced in this section, namely, "Multiagent Systems: Algorithmic, Game-theoretic, and Logical Foundations" (Shoham and Leyton-Brown 2009), and "A Course in Game Theory" (Osborne and Rubinstein 1994), both of which define Bayesian Nash equilibrium and provide explanations. However, no theorem or proof related to Bayesian Nash equilibrium is provided in either textbook.
   - The third part reflects a game theory glossary, and linked with original sources.
-- [Normal and extensive form games in Colab](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/blob/main/code/Normal_Form_Game%26Extensive_Form_Game.ipynb)
+- [Normal and extensive form games](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/blob/main/code/Normal_Form_Game%26Extensive_Form_Game.ipynb)
   - This section discusses two different game theory problems: the Modified Prisoner's Dilemma and the Matching Pennies without Observation game, explaining their game descriptions, strategic form matrices, game trees, and solutions including Nash equilibrium and expected payoff.
 
 ### Spotlight
