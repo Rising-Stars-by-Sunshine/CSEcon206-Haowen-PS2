@@ -53,7 +53,7 @@
 
 - Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
 - Osborne, Martin J, and Ariel Rubinstein. 1994. A Course in Game Theory. Cambridge, Mass.: Mit Press.
-- Shoham, Yoav, and Kevin Leyton-Brown. 2009. “Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations.” Choice Reviews Online 46 (10): 46–566246–5662. https://doi.org/10.5860/choice.46-5662.
+- Shoham, Yoav, and Kevin Leyton-Brown. 2009. “Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations.” *Choice Reviews Online* 46 (10): 46–566246–5662. https://doi.org/10.5860/choice.46-5662.
 ```
 @article{levin2022bridging,
   title={Bridging level-k to nash equilibrium},
