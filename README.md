@@ -1,10 +1,8 @@
-# Haowen
-## Project information
-- **Author**: Haowen Ji, [Last Name], [Major], [Class], Duke Kunshan University
+#  Problem Set 2: Decipher Game Theory
+- **Author**: Haowen Ji, Data Science, Class 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Disclaimer**: Submissions to Problem Set 2 for [CSEcon 206 Computational Microeconomics, 2023 Spring Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Acknowledgements**: I would like to thank Prof. Luyao Zhang for her instructions in CSEcon 206 and thank all my classmates for the inspiring discussions and feedback. Thank Yiwei, Yuchen, and Rong for precious advice.
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
