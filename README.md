@@ -6,7 +6,7 @@
 - **Project Information**:  
   This project mainly has two parts:
   - Game theory reflection and exploration in Overleaf. This part goes through the milestones of game theory and explores Bayesian Nash Equilibrium and game theory glossary.
-  - Game simulation. This project will simulate two typical games and provide brief elaboration. Code in the Google Colab is uploaded in the code folder.
+  - Normal and extensive form games in Colab. This part introduces, realizes and analyzes two forms of games with coding and stored in the .ipynb file.
  
 
 ## Table of Contents\
@@ -17,8 +17,9 @@
 - [References](#references)
 
 ### Structure
-- Overleaf
-- Coding 
+- [Game theory reflection and exploration in Overleaf](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/blob/main/code/CSECON206_ProblemSet2_Spring2023-Haowen.zip)
+  - 
+- [Normal and extensive form games in Colab](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/blob/main/code/Normal_Form_Game%26Extensive_Form_Game.ipynb)
 
 ### Spotlight
 - 
