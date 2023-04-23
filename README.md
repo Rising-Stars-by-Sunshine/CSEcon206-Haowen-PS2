@@ -4,8 +4,8 @@
 - **Disclaimer**: Submissions to Problem Set 2 for [CSEcon 206 Computational Microeconomics, 2023 Spring Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgements**: I would like to thank Prof. Luyao Zhang for her instructions in CSEcon 206 and thank all my classmates for the inspiring discussions and feedback. Thank Yiwei, Yuchen, and Rong for precious advice.
 - **Project Information**:  
-  - Project overview. The flow and the content of the projecet will be introduced in the following readme.file.
-  - Game theory overview. This project will go through some significant concepts in game theory. The document is uploaed as Overleaf.zip file in the code folder.
+  This project mainly has two parts:
+  - Game theory reflection and exploration in Overleaf. This part goes through the milestones of game theory and explores Bayesian Nash Equilibrium and game theory glossary.
   - Game simulation. This project will simulate two typical games and provide brief elaboration. Code in the Google Colab is uploaded in the code folder.
  
 
@@ -21,12 +21,7 @@
 - Coding 
 
 ### Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+- 
 
 ### More about the Author
 <div align=center>
