@@ -2,7 +2,7 @@
 - **Author**: Haowen Ji, Data Science, Class 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to Problem Set 2 for [CSEcon 206 Computational Microeconomics, 2023 Spring Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgements**: I would like to thank Prof. Luyao Zhang for her instructions in CSEcon 206 and thank all my classmates for the inspiring discussions and feedback. Thank Yiwei, Yuchen, and Rong for precious advice.
+- **Acknowledgements**: I would like to thank Prof. Luyao Zhang for her instructions in CSEcon 206 and thank all my classmates for the inspiring discussions and feedback. Thank Yiwei, Yuchen, and Rong for their precious advice.
 - **Project Information**: 
   This project mainly has two parts:
   - Game theory reflection and exploration in Overleaf. This part goes through the milestones of game theory and explores Bayesian Nash Equilibrium and game theory glossary.
@@ -21,7 +21,7 @@
 - [Game theory reflection and exploration](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/blob/main/code/CSECON206_ProblemSet2_Spring2023-Haowen.zip)
   - The first part briefly outlines the milestones in the history of game theory. 
   - The second part focuses on Bayesian Nash equilibrium and provides definitions and explanations of the concept. Two textbooks are referenced in this section, namely, "Multiagent Systems: Algorithmic, Game-theoretic, and Logical Foundations" (Shoham and Leyton-Brown 2009), and "A Course in Game Theory" (Osborne and Rubinstein 1994), both of which define Bayesian Nash equilibrium and provide explanations. However, no theorem or proof related to Bayesian Nash equilibrium is provided in either textbook.
-  - The third part reflects a game theory glossary, and is linked with original sources.
+  - The third part reflects a game theory glossary and is linked with original sources.
 - [Normal and extensive form games](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2/blob/main/code/Normal_Form_Game%26Extensive_Form_Game.ipynb)
   - This section discusses two different game theory problems: the Modified Prisoner's Dilemma and the Matching Pennies without Observation game, explaining their game descriptions, strategic form matrices, game trees, and solutions including Nash equilibrium and expected payoff.
 
@@ -53,7 +53,7 @@
 ### References
 
 - Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
-- Osborne, Martin J, and Ariel Rubinstein. 1994. A Course in Game Theory. Cambridge, Mass.: Mit Press.
+- Osborne, Martin J, and Ariel Rubinstein. 1994. A Course in Game Theory. Cambridge, Mass.: MIT Press.
 - Shoham, Yoav, and Kevin Leyton-Brown. 2009. “Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations.” *Choice Reviews Online* 46 (10): 46–566246–5662. https://doi.org/10.5860/choice.46-5662.
 ```
 @article{levin2022bridging,
